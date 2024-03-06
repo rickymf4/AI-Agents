@@ -1,3 +1,16 @@
+# agent 
+ - classic Agent pipeline： https://github.com/modelscope/modelscope-agent/blob/master/modelscope_agent/agents/role_play.py；https://github.com/modelscope/modelscope-agent/blob/master/resources/modelscope-agent.png
+ - Train process：
+   + data collection：model API、common API、API- oriented QA、
+   + LLM training
+ - Inferecne：
+   + tool retrival
+   + memory control 
+   + task planing
+   + tool use
+   + API execute
+   + response generation
+
 # meta-prompting
 
 * https://mp.weixin.qq.com/s/y-bMFqpu7cuxpSAzbyt4cQ?poc_token=HFV1ymWjA8Y7Kk6DG0NKa0u94hX8Mi3Uwr2POir7

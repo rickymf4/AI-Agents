@@ -1,6 +1,8 @@
 # Introduction
 大动作模型（Large-Action Models，简称LAM）
 
+# Mobile-Agent: The Powerful Mobile Device Operation Assistant Family
+https://github.com/X-PLUG/MobileAgent
 
 # salesforce
 https://blog.salesforceairesearch.com/large-action-models/
